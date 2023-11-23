@@ -12,9 +12,6 @@ const App = () => (
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Rockets />} />
-        <Route path="missions" element={<Missions />} />
-        <Route path="myprofile" element={<MyProfile />} />
-        <Route path="*" element={<h1>Not found</h1>} />
       </Route>
     </Routes>
   </BrowserRouter>
