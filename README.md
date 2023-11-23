@@ -104,7 +104,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd react-group-project
-  git clone https://github.com/Rhaegar121/Space-Travelers-Hub
+  git clone https://github.com/1iceberg1/Space-Travelers-Hub
 ```
 
 ### Install
@@ -152,11 +152,11 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kaung Myat Kyaw**
+👤 **Aleksander Karlsen**
 
-- GitHub: [@githubhandle](https://github.com/Rhaegar121)
-- Twitter: [@twitterhandle](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw/)
+- GitHub: [@githubhandle](https://github.com/1iceberg1)
+- Twitter: [@twitterhandle](https://twitter.com/1iceberg1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aleksanderkarlsen/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
